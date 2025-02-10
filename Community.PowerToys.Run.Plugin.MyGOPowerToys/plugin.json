@@ -1,0 +1,14 @@
+{
+  "ID": "0161455A0FDB4D57898EAB503621DBBC",
+  "ActionKeyword": "@",
+  "IsGlobal": false,
+  "Name": "MyGOPowerToys",
+  "Author": "miyago9267, shakbo",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.MyGOPowerToys",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.MyGOPowerToys.dll",
+  "IcoPathDark": "Images\\mygopowertoys.dark.png",
+  "IcoPathLight": "Images\\mygopowertoys.light.png",
+  "DynamicLoading": false
+}
